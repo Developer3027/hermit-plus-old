@@ -101,6 +101,11 @@ nav {
   width: 320px;
 }
 
+.video-wrapper img {
+  width: 310px;
+  margin: 5px;
+}
+
 /* videoTop */
 .video-top {
   height: 100%;
@@ -112,7 +117,8 @@ nav {
 }
 
 .video-top img {
-  margin: 5px 0;
+  width: 310px;
+  margin: 5px;
 }
 
 /* info section */
@@ -238,6 +244,7 @@ nav {
 .video-bottom img {
   border: 1px solid var(--burnt);
   border-radius: 5px;
+  width: 310px;
   margin: 8px 0;
 }
 
