@@ -20,3 +20,5 @@ June 26 27, 2021, Over the weekend I focused on the layout and design concept in
 
 June 28, 2021, Over the past day or so I have been working on the mobile version of the landing page. I finally got it laid out nice and the flow good. Set it up on Vercel and it looks just like I want. Just like the Figma file, with a few very minor exceptions. Here is the link to the Vercel site. Again, as of today, this is mobile only. If viewing on a desktop, inspect it at 425 px or less and refresh the page.
 [Hermit-Plus](https://hermit-plus.vercel.app)
+
+July 27, 2001, I don't know when I did it, maybe a few weeks back, but I made some progress on the desktop layout. The desktop has alot more going on and is taking some tweaking. Also, currently it is ver graphics heavy. I will address both or these issues once the layout is done.
