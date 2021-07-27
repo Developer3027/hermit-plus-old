@@ -3,6 +3,8 @@
 
 [Hermit-Plus preview](https://hermit-plus.vercel.app)
 
+![hermit plus](public/images/hermit-screenshot.png)
+
 I am a big Minecraft fan and fancy myself a pretty good builder. I love the functionality of the command blocks. They allow one to build any version of the game one would want.
 
 I ran across the hermits many years ago and just love what they have going on. I love the way they interact and the amazing things they build. I am certainly not alone in this seeing as how one of the hermits has over 7 million subscribers.

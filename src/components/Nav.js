@@ -13,26 +13,6 @@ const Nav = () => {
           <h3>Sign Up</h3>
         </Link>
       </div>
-
-      <nav>
-        <ul>
-          <li>
-            <Link>Home</Link>
-          </li>
-          <li>
-            <Link>About</Link>
-          </li>
-          <li>
-            <Link>FAQ</Link>
-          </li>
-        </ul>
-      </nav>
-
-      <div className='mobile'>
-        <div className='bar bar-1'></div>
-        <div className='bar bar-2'></div>
-        <div className='bar bar-3'></div>
-      </div>
     </header>
   );
 };

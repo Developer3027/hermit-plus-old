@@ -6,9 +6,9 @@ import bdubVideo from '../images/bDouble0S8E1thumb.webp';
 const LandingHero = () => {
   return (
     <>
-      <section className='hero'>
+      <section className='mobile-hero desktop-hero'>
         <div className='hero-overlay'></div>
-        <div className='wrapper'>
+        <div className='logo-wrapper'>
           <img src={bendLogo} alt='Hermit Craft' />
           <div className='video-wrapper'>
             <Link>
